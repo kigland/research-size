@@ -104,8 +104,3 @@
     - `scatter_matrix.png`
     - `size_distributions.png`
     - `cluster_distributions.png`
-
-## 使用方法
-
-1. 安装依赖：
-```bash
